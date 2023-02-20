@@ -1,6 +1,6 @@
 import { createClient } from '@supabase/supabase-js'
 
-const supabase = createClient('https://vmotnlgheysvvnpmklsm.supabase.co', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZtb3RubGdoZXlzdnZucG1rbHNtIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NzYxMTkwMTYsImV4cCI6MTk5MTY5NTAxNn0.XIUboQfI_86PvrWlGh63wvDP17kyVoq_HnKv8HQC-ek')
+const supabase = createClient('<url>', '<key>')
 
 import readline from 'readline';
 
